@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Insight Career Counseling and Guidance Website
 
-Template Name: BizPage
-Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Link :
+www.insightcareer.in
